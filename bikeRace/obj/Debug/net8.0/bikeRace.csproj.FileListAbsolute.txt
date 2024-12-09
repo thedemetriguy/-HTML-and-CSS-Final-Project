@@ -1,0 +1,14 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/obj/Debug/net8.0/bikeRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/obj/Debug/net8.0/bikeRace.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/obj/Debug/net8.0/bikeRace.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/obj/Debug/net8.0/bikeRace.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/bin/Debug/net8.0/bikeRace
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/bin/Debug/net8.0/bikeRace.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/bin/Debug/net8.0/bikeRace.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/bin/Debug/net8.0/bikeRace.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/bin/Debug/net8.0/bikeRace.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/obj/Debug/net8.0/bikeRace.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/obj/Debug/net8.0/refint/bikeRace.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/obj/Debug/net8.0/bikeRace.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/obj/Debug/net8.0/bikeRace.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Fall '24 Semester/Classes/CIT110 Programming Logic and Design/finalProject/bikeRace/obj/Debug/net8.0/ref/bikeRace.dll
